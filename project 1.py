@@ -81,8 +81,6 @@ if 'yes'==inp:
 
 
 
-
-
 elif 'no'==inp:
     print('ok we will meet next time')
 
